@@ -11,7 +11,6 @@ public class HelloWorld {
 
     public void test(){
         System.out.println("new method");
-        System.out.println("Line 2");
 
     }
 }
